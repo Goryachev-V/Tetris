@@ -1,0 +1,14 @@
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\bin\Release\net8.0\Tetris.exe
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\bin\Release\net8.0\Tetris.deps.json
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\bin\Release\net8.0\Tetris.runtimeconfig.json
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\bin\Release\net8.0\Tetris.dll
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\bin\Release\net8.0\Tetris.pdb
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.AssemblyInfoInputs.cache
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.AssemblyInfo.cs
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.csproj.CoreCompileInputs.cache
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.dll
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\refint\Tetris.dll
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.pdb
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\Tetris.genruntimeconfig.cache
+E:\VisualStudioSourceRepos\Tetris\Tetris\Tetris\obj\Release\net8.0\ref\Tetris.dll
